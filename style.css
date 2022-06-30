@@ -1,0 +1,34 @@
+.cloud {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'metropolisblack ', sans-serif;
+    font-size: 3.900em;
+    color: #6783bcb9;
+    font-weight: 800;
+}
+
+a {
+    font-family: 'metropolisblack ', sans-serif;
+    font-size: 1em;
+    color: #8b8c90b9;
+    font-weight: 800;
+    padding: 1rem;
+    margin-left: 3rem;
+}
+
+h2 {
+    font-family: 'metropolisblack ', sans-serif;
+    font-size: 2rem;
+    color: #6783bcb9;
+    font-weight: 800;
+    margin-left: 3rem;
+}
+
+ul {
+    font-family: 'metropolisblack ', sans-serif;
+    font-size: 1em;
+    color: #8b8c90b9;
+    font-weight: 800;
+    margin-left: 3rem;
+}
