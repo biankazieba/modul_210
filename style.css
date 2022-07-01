@@ -1,11 +1,16 @@
-.cloud {
+.title {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.cloud {
+    float: left;
     font-family: 'metropolisblack ', sans-serif;
     font-size: 3.900em;
     color: #6783bcb9;
     font-weight: 800;
+    margin: 0;
 }
 
 a {
